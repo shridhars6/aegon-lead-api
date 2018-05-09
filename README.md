@@ -1,2 +1,2 @@
-# aegon-lead-api
-Aegon Lead Api Angular Library
+# lead-api
+Lead Api Angular Library
